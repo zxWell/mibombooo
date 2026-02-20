@@ -1,4 +1,7 @@
 # mibombooo
+## я этот сайт делал для Леры, но оставил приколы для тех, кто шарит за гит
+
+# и так:
 https://music.yandex.ru/album/36342353/track/138485026?utm_source=desktop&utm_medium=copy_link
 https://music.yandex.ru/album/37500373/track/141193965?utm_source=desktop&utm_medium=copy_link
 https://music.yandex.ru/album/36167089/track/138063985?utm_source=desktop&utm_medium=copy_link
